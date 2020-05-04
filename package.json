@@ -1,0 +1,23 @@
+{
+  "name": "angler",
+  "version": "1.0.0",
+  "description": "Baixador de arquivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatysah/angler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hatysah/angler/issues"
+  },
+  "homepage": "https://github.com/hatysah/angler#readme",
+  "dependencies": {
+    "puppeteer": "^3.0.1",
+    "require-dir": "^1.2.0"
+  }
+}
